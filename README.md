@@ -1,7 +1,4 @@
 - 👋 Hi, I’m David Moiseyev
-- 👀 I’m interested in learning how computers work and communictate
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me; email: david445545@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Use Arch BTW
